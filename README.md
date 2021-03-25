@@ -2,7 +2,11 @@
 
 <h2 align="center">Sobre 📖</h2>
 
-<p>ChatCord é uma plataforma onde você pode conversar e discutir seus problemas relacionados à codificação e programação.</p>
+<p>
+	ChatCord é uma plataforma onde você pode conversar e discutir seus problemas relacionados à codificação e programação.
+
+[![Run on Repl.it](https://repl.it/badge/github/vdonoladev/chatCord)](https://repl.it/github/vdonoladev/chatCord)
+</p>
 
 <h2 align="center">Preview 💻</h2>
 
