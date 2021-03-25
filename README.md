@@ -43,6 +43,6 @@
    http://localhost:3000/
 ```
 
-<h2 align="center">Licença 📃</h2>
+<h2 align="center">Licença</h2>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
