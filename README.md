@@ -22,7 +22,7 @@
 
 <h2 align="center">Como usar 🤔</h2>
 
-   ```
+```
    - Clone o repositório:
    $ git clone https://github.com/vdonoladev/chatCord
 	 
@@ -37,4 +37,8 @@
 
    - Abra seu navegador em:
    http://localhost:3000/
-   ```
+```
+
+<h2>Rode no Repl.it</h2>
+
+[![Run on Repl.it](https://repl.it/badge/github/vdonoladev/chatCord)](https://repl.it/github/vdonoladev/chatCord)
